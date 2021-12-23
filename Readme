@@ -1,0 +1,8 @@
+This is a calculator that calculates your opponent's possible hands (VPIP, PFR) in poker. The program is written in Russian. It contains vertical and horizontal columns with numbers. The vertical columns and the numbers in them mean the number of times the player has deposited money into the bank in one distribution and there are 30 such hands in the program. The horizontal columns are used to count the number of hands. Above the vertical columns there are buttons to reset the result of a specific player, to the right of these buttons is the start button, and in the lower right corner there is a button to reset all values.
+
+
+In practice, I've noticed its advantage in real-time tracking. Cons: You need to play a lot of hands to get clear results. For the program to work, the PyQt5 module or higher is required.
+
+
+
+P.S. this is my first job, do not take it harshly. I will be glad to criticism.
